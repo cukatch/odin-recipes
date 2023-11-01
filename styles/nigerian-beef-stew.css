@@ -1,0 +1,27 @@
+.nigerian-beef-stew-page {
+    background-color: green;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nigerian-beef-stew-header {
+    text-align: center;
+    font-weight: bold;
+}
+
+.picture {
+    align-items: center;
+}
+
+.picture > img {
+    width: 500px;
+    height: 300px;
+}
+
+.intro > h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}

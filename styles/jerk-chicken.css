@@ -1,0 +1,27 @@
+.jerk-chicken-page {
+    background-color: green;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jerk-header {
+    text-align: center;
+    font-weight: bold;
+}
+
+.picture {
+    align-items: center;
+}
+
+.picture > img {
+    width: 500px;
+    height: 300px;
+}
+
+.intro > h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
